@@ -1,4 +1,4 @@
-# vagrant_jekins_terraform
+# vagrant-jekins-terraform
 Máquina Virtual pronta para pipeline com terraform
 
 - Projeto feito no VirtualBox, nescessário telo instalado ou alterar a linha 3 do vagrantfile para o seu provider de preferência;
